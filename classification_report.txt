@@ -1,0 +1,24 @@
+VEHICLE CLASSIFICATION REPORT - efficientnet_b0
+================================================================================
+
+Overall Accuracy: 0.9718 (97.18%)
+
+Detailed Classification Report:
+--------------------------------------------------------------------------------
+                       precision    recall  f1-score   support
+
+    articulated_truck     0.8926    0.9241    0.9081      2069
+           background     0.9973    0.9964    0.9969     32000
+              bicycle     0.7290    0.9125    0.8105       457
+                  bus     0.9589    0.9830    0.9708      2063
+                  car     0.9785    0.9846    0.9815     52104
+           motorcycle     0.9532    0.9268    0.9398       396
+non-motorized_vehicle     0.8016    0.5771    0.6711       350
+           pedestrian     0.9488    0.8571    0.9006      1253
+         pickup_truck     0.9235    0.9135    0.9185     10181
+    single_unit_truck     0.7957    0.7568    0.7758      1024
+             work_van     0.9191    0.8512    0.8839      1936
+
+             accuracy                         0.9718    103833
+            macro avg     0.8998    0.8803    0.8870    103833
+         weighted avg     0.9718    0.9718    0.9716    103833
