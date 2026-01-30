@@ -38,11 +38,11 @@ See 'Model Evaluation' for code.
 
 # Model Performance
 
-- **| Overall Accuracy | 97.18% |**
-- **| Training Images | 415,331 |**
-- **| Validation Images | 103,833 |**
-- **| Number of Classes | 11 |**
-- **| Model Size | ~43 MB |**
+- **Overall Accuracy:  97.18%**
+- **Training Images:  415,331**
+- **Validation Images:  103,833**
+- **Number of Classes:  11**
+- **Model Size: ~43 MB**
 
 # Per-Class Performance
 
